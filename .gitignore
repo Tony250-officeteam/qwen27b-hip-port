@@ -9,3 +9,7 @@ dist/
 *.log.err
 __pycache__/
 *.pyc
+
+# local build helpers
+ghproxy.py
+ghproxy.*
