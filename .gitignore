@@ -1,0 +1,11 @@
+﻿build*/
+dist/
+.rocm-win/
+*.exe
+*.dll
+*.obj
+*.o
+*.log
+*.log.err
+__pycache__/
+*.pyc
